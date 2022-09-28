@@ -1,0 +1,3 @@
+/home/suyash/CLionProjects/phi/cmake-build-debug/CMakeFiles/phi.dir
+/home/suyash/CLionProjects/phi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/suyash/CLionProjects/phi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
